@@ -5,3 +5,4 @@
 [submodule "external/sparsepp"]
 	path = external/sparsepp
 	url = https://github.com/greg7mdp/sparsepp.git
+	master
