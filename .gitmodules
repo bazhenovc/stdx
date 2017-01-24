@@ -1,0 +1,7 @@
+[submodule "external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt.git
+	branch = master
+[submodule "external/sparsepp"]
+	path = external/sparsepp
+	url = https://github.com/greg7mdp/sparsepp.git
